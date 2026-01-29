@@ -2,6 +2,8 @@
 
 An autonomous cryptocurrency trading bot that uses AI (GPT-4o or Claude) to make trading decisions on Uniswap (Base chain in this case) market & liquidity data.
 
+Link to repo that uses CoW Intents to execute trades [https://github.com/divyasshree-BQ/AI-crypto-trader-all-in-one-CoW-Intent/tree/main](https://github.com/divyasshree-BQ/AI-crypto-trader-all-in-one-CoW-Intent/tree/main)
+
 ## Features
 
 - AI-powered decision making using GPT-4o or Claude Sonnet
