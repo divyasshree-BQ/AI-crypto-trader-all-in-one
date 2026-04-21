@@ -188,3 +188,6 @@ Contributions welcome. Please test thoroughly before submitting pull requests.
 ## Support
 
 For issues or questions, please open an issue on GitHub.
+
+
+Built and maintained by [Divyasshree](https://cryptogrammar.xyz) — quantitative trading & blockchain research.
